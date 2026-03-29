@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+.env
+.env*.local
+
+# Next.js (web app)
+web/node_modules
+web/.next
+web/out
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
